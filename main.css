@@ -98,6 +98,10 @@ section {
     margin-left: 70px;
 }
 
+section#slide {
+        padding-top: 0;
+    }
+
 @media (max-width: 767px) {
     .carousel-item img,
     .carousel.slide {
